@@ -1,0 +1,13 @@
+Position (order),Randomized Heating Rate,"Amount of overflow? (lots, little, none)",First Measured Mass (by machine)
+120,20,No,19.821
+121,5,Lots,20.097
+122,20,Little,19.565
+123,5,No,18.965
+124,10,Lots,19.248
+125,5,Lots,20.623
+126,15,Lots,19.254
+127,20,Little,17.946
+128,15,No,19.665
+129,10,Little,20.589
+130,15,Little,19.489
+131,10,Lots,20.371
